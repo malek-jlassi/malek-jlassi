@@ -78,10 +78,10 @@
 
 
 <a href="https://github.com/malek-jlassi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malek-jlassi&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/malek-jlassi/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malek-jlassi&repo=malek-jlassi.github.io&theme=buefy" />
 </a>
 
 <br />
