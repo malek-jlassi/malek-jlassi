@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://app.daily.dev/majdi"><img src="https://api.daily.dev/devcards/a063598ed1d3496491920d6c60ca2729.png?r=ffp" width="400" alt="Malek Jlassi's Dev Card"/></a>
