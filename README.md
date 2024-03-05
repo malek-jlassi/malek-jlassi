@@ -79,10 +79,10 @@
 
 
 <a href="https://github.com/malek-jlassi/CR5-RMI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malek-jlassi&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="" />
 </a>
 <a href="https://github.com/malek-jlassi/CR-TP3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malek-jlassi&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="" />
 </a>
 
 <br />
