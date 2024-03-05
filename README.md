@@ -74,24 +74,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malek-jlassi&" alt="malek-jlassi" /></p>
 
-#### Top Repositories
 
-
-<a href="https://github.com/malek-jlassi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malek-jlassi&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/malek-jlassi/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malek-jlassi&repo=malek-jlassi.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="malek jlassi | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="malek jlassi | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
 
 
