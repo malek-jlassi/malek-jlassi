@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available on my github profile
 
 - ⚡ Fun fact **I am funny😅**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/malek-jlassi-49b67a1a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malek-jlassi" height="30" width="40" /></a>
@@ -85,6 +85,7 @@
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="https://flagcdn.com/w320/us.png" /> |
 | [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="https://flagcdn.com/w320/fr.png" />        |
+| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="https://flagcdn.com/w320/sa.png" />        |
 | [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="https://flagcdn.com/w320/sa.png" />        |
 
 </div>
