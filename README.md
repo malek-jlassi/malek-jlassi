@@ -74,4 +74,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malek-jlassi&" alt="malek-jlassi" /></p>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
 
