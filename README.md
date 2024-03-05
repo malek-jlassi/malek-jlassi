@@ -75,12 +75,19 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malek-jlassi&" alt="malek-jlassi" /></p>
 
 
-#### Top Repositories
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<div align="center" >
 
+| Choose your language         | Flags                                                                                                              |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="./assets/images/flags/USA.png" /> |
+| [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="./assets/images/flags/France.png" />        |
+| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
 
-  <p align="left">
-    <a href="https://github.com/malek-jlassi/CR5-RMI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=malek-jlassi1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="click on it"></a></p>
+</div>
 
 
 <br />
