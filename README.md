@@ -85,7 +85,7 @@
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="https://flagcdn.com/w320/us.png" /> |
 | [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="https://flagcdn.com/w320/fr.png" />        |
-| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="https://flagcdn.com/w320/sa.png)https://flagcdn.com/w320/sa.png" />        |
+| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="https://flagcdn.com/w320/sa.png" />        |
 
 </div>
 
