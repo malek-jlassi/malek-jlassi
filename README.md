@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
 
-<img align="right" alt="coding" width="300" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
+<img align="right" alt="coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malek-jlassi&label=Profile%20views&color=0e75b6&style=flat" alt="malek-jlassi" /> </p>
 
@@ -53,6 +53,9 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+  </a>
+   <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" width="40" height="40"/>
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
