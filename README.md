@@ -78,11 +78,11 @@
 #### Top Repositories
 
 
-<a href="https://github.com/malek-jlassi/xaviermichel.github.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/malek-jlassi/CR5-RMI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malek-jlassi&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/malek-jlassi/CR-TP3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malek-jlassi&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br />
