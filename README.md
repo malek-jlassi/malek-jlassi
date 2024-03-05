@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malek-jlassi&label=Profile%20views&color=0e75b6&style=flat" alt="malek-jlassi" /> </p>
 
