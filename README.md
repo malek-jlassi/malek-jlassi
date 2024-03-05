@@ -1,4 +1,4 @@
-![logo](https://github.com/malek-jlassi/malek-jlassi/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Malek Jlassi</h1>
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
